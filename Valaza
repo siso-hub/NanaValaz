@@ -10,6 +10,7 @@
 
   <style>
     :root {
+      --img src="Nana.jpg";
       --bg1: #950606;
       --bg2: #ffeef6;
       --card: #ffffffcc;
